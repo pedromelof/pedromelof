@@ -23,8 +23,9 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
 
 
 
- 
-## :rocket: Languages:
+ <h1 align='center'>
+  Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> :rocket: Languages: 
+</h1>
 
 <div align="center">
   <a href="https://skillicons.dev">
