@@ -30,3 +30,9 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,docker" />
   </a>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph.svg">
+</picture>
