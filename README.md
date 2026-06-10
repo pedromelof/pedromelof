@@ -34,10 +34,3 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,docker" />
   </a>
 </div>
-
-
-
-###
-
-
-
