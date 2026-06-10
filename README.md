@@ -5,9 +5,6 @@
 I'm a student at Unifor in the Computer Science course, I'm a Full Stack Developer!
 </p>
 
-<br />
-
-
 
 <div align="left"> 
   <!-- <a align="center" href="https://www.behance.net/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> -->
