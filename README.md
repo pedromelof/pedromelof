@@ -25,19 +25,12 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,react,typescript,nodejs,figma,express,nextjs,mysql,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,pascal,delphi,docker" />
   </a>
 </div>
 
   
 ##
-
-
-## ⚡ Github Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedromelof&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1%22%20height=%22170%22%20alt=%22stats%20graph%22" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedromelof&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gotham&hide_border=true&order=2" height="170" alt="languages graph"  />
-</div>
 
 ###
 
