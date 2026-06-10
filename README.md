@@ -14,6 +14,7 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
   <!-- <a align="center" href="https://www.instagram.com/gui.cpessoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
  	<!-- <a align="center" href="https://www.artstation.com/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Artstation-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a> -->
   <a align="center" href = "mailto:pedromelo.bss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href = "https://www.linkedin.com/in/pedromelof/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -25,7 +26,7 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,pascal,delphi,docker" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,pascal,docker" />
   </a>
 </div>
 
