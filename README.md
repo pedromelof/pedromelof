@@ -1,32 +1,38 @@
-<p align="left"># Olá, mundo! 👋<br><br>Sou apaixonado por transformar ideias complexas em código eficiente e escalável.<br><br>## 🛠 Sobre mim<br>*   **Foco atual:** Arquitetura de sistemas e narrativas ramificadas em jogos.<br>*   **O que estou aprendendo:** [Insira uma tecnologia aqui]<br>*   **Objetivo:** Contribuir com projetos open source e criar soluções que facilitem a vida das pessoas.<br><br>## 🚀 Tecnologias<br>![Linguagens](https://skillicons.dev/icons?i=js,ts,python,cpp,git)<br><br>## 📊 Estatísticas<br><!-- Você pode substituir por links de geradores de estatísticas como o GitHub Readme Stats --><br><div align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="Estatísticas GitHub" /><br></div><br><br>## 📫 Vamos nos conectar?<br>*   [LinkedIn](https://linkedin.com/in/seu-perfil)<br>*   [Twitter/X](https://twitter.com/seu-perfil)<br><br>---<br>*Este é um perfil em constante evolução.*</p>
+<h1 align='left'>
+  Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Pedro 👨‍💻 
+</h1>
+<p align='left'>
+I'm a student at Unifor in the Computer Science course, I'm a Full Stack Developer!
+</p>
 
-###
+
+<div align="left"> 
+  <!-- <a align="center" href="https://www.behance.net/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> -->
+  <!-- <a align="center" href="https://www.instagram.com/gui.cpessoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+ 	<!-- <a align="center" href="https://www.artstation.com/guipessoa" target="_blank"><img src="https://img.shields.io/badge/-Artstation-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" target="_blank"></a> -->
+  <a align="center" href = "mailto:pedromelo.bss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a align="center" href="https://www.linkedin.com/in/pedromelof/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+  
+</div>
+
+
+<br />
+
+
+ <h1 align='left'>
+ :rocket: Languages: 
+</h1>
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,docker" />
+  </a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedromelof/pedromelof/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
