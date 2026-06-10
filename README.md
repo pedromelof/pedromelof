@@ -33,8 +33,7 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
   </a>
 </div>
 
-  
-##
+
 
 ###
 
