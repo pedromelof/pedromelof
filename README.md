@@ -6,8 +6,6 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
 </p>
 
 <br />
-<br />
-<br />
 
 
 
@@ -23,6 +21,8 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
 </div>
 
 
+<br />
+<br />
 
 
  <h1 align='center'>
