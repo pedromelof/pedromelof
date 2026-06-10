@@ -1,7 +1,7 @@
 <h1 align='left'>
   Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> I'm Pedro 👨‍💻 
 </h1>
-<p align='center'>
+<p align='left'>
 I'm a student at Unifor in the Computer Science course, I'm a Full Stack Developer!
 </p>
 
@@ -29,7 +29,7 @@ I'm a student at Unifor in the Computer Science course, I'm a Full Stack Develop
  :rocket: Languages: 
 </h1>
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,nodejs,react,postgresql,mysql,docker" />
   </a>
